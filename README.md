@@ -1,0 +1,1 @@
+This is an intorduction to deep learning with the PyTorch library. It covers basics of pythorch and then introduces linear algebra.
